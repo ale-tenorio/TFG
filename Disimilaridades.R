@@ -1,7 +1,6 @@
 library(tidyr)
 library(dplyr)
 library(stringr)
-library(tidyverse)
 
 #Se ingresa la información en formato .csv de Carretera, Tiempo y distancias Euclídeas
 CARRETERA = "D:/QGis/Capas nuevas/DATOS REALES/distancias reales.csv"
